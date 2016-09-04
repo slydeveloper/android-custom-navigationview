@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android-custom-navigation-view</string>
+    <string name="app_title">App</string>
+    <string name="news">News</string>
+    <string name="bottom_news">Bottom news</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
